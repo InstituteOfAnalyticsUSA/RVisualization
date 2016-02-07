@@ -1,2 +1,2 @@
 # RVisualization
-Introduction to R programming and Visualization
+Introduction to R programming and Visualization - A student notebook
